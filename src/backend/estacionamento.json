@@ -1,0 +1,72 @@
+{
+  "vagas": [
+    {
+      "numero": 1,
+      "localizacao": "dasdas",
+      "status": "livre",
+      "tipoVeiculo": "Carro",
+      "entrada": "Jul 1, 2024, 11:22:34 AM",
+      "reservada": false
+    }
+  ],
+  "reservas": [],
+  "relatorios": {
+    "todoHistoricoOcupacao": [
+      "Mon Jul 01 08:30:08 BRT 2024: sdasdsa ocupou a vaga 2",
+      "Mon Jul 01 08:30:10 BRT 2024: sdasdsa saiu da vaga 2",
+      "Mon Jul 01 08:41:18 BRT 2024: asdasd ocupou a vaga 1",
+      "Mon Jul 01 08:41:19 BRT 2024: asdasd saiu da vaga 1",
+      "Mon Jul 01 09:32:07 BRT 2024: sdad ocupou a vaga 1",
+      "Mon Jul 01 09:32:11 BRT 2024: sdad saiu da vaga 1",
+      "Mon Jul 01 11:06:21 BRT 2024: adsads ocupou a vaga 1",
+      "Mon Jul 01 11:06:25 BRT 2024: adsads saiu da vaga 1",
+      "Mon Jul 01 11:22:07 BRT 2024: dadsdas ocupou a vaga 1",
+      "Mon Jul 01 11:22:09 BRT 2024: dadsdas saiu da vaga 1",
+      "Mon Jul 01 11:22:34 BRT 2024: asdasd ocupou a vaga 1",
+      "Mon Jul 01 11:22:45 BRT 2024: asdasd saiu da vaga 1"
+    ],
+    "placas": {
+      "sdasdsa": [
+        "Mon Jul 01 08:30:10 BRT 2024: sdasdsa saiu da vaga 2"
+      ],
+      "asdasd": [
+        "Mon Jul 01 08:41:19 BRT 2024: asdasd saiu da vaga 1",
+        "Mon Jul 01 11:22:45 BRT 2024: asdasd saiu da vaga 1"
+      ],
+      "sdad": [
+        "Mon Jul 01 09:32:11 BRT 2024: sdad saiu da vaga 1"
+      ],
+      "adsads": [
+        "Mon Jul 01 11:06:25 BRT 2024: adsads saiu da vaga 1"
+      ],
+      "dadsdas": [
+        "Mon Jul 01 11:22:09 BRT 2024: dadsdas saiu da vaga 1"
+      ]
+    },
+    "transacoesFinanceiras": {
+      "historico": [
+        "Transação em jul. 01, 2024 09:32:11: 0.010427777777777779 R$ recebido de sdad na saída.",
+        "Transação em jul. 01, 2024 11:06:25: 0.012319444444444444 R$ recebido de adsads na saída.",
+        "Transação em jul. 01, 2024 11:22:09: 0.005661111111111111 R$ recebido de dadsdas na saída.",
+        "Transação em jul. 01, 2024 11:22:45: 0.03190833333333333 R$ recebido de asdasd na saída."
+      ],
+      "saldo": 0.0724111111111111
+    }
+  },
+  "clientes": [
+    {
+      "nome": "asds",
+      "telefone": "asda",
+      "email": "asda",
+      "veiculos": [
+        {
+          "cor": "asds",
+          "placa": "adasd",
+          "tipo": "Carro",
+          "marca": "",
+          "modelo": "dsd"
+        }
+      ]
+    }
+  ]
+}
