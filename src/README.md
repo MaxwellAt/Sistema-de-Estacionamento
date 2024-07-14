@@ -14,6 +14,3 @@ O trabalho consiste em desenvolver um sistema de gerenciamento de estacionamento
 ### **Ambiente de Execução:**
 
 Os arquivos fornecidos não especificam um ambiente de execução. A linguagem de programação utilizada é Java, como indicado pelos trechos de código. É possível que o sistema utilize o framework Swing para a interface gráfica, conforme sugerido pela documentação da biblioteca `javax.swing`.
-
-**Observação:** Esta resposta é baseada apenas nas informações fornecidas nos arquivos. Não foram encontradas informações sobre o ambiente de execução específico.
-
